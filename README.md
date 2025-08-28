@@ -7,13 +7,13 @@ v0.1: 26 Aug, 25
 | AerialVLN : Vision-and-Language Navigation for UAVs          | ICCV'23     | Simulator                | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_AerialVLN_Vision-and-Language_Navigation_for_UAVs_ICCV_2023_paper.pdf) [github](https://github.com/AirVLN/AirVLN) |
 | Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology | ICLR'24     | Simulator                | [website](https://prince687028.github.io/OpenUAV/)           |
 | ~~CityNav: A Large-Scale Dataset for Real-World Aerial Navigation~~ | ICLR'24 Rej | Simulator (real2sim)     | [website](https://water-cookie.github.io/city-nav-proj/)     |
+| OpenFly : A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation | 25          | Simulator                | [website](https://shailab-ipec.github.io/openfly/)           |
 | GOMAA-Geo: GOal Modality Agnostic Active Geo-localization    | NeurIPS'24  |                          | [paper](https://arxiv.org/abs/2406.01917) [github](https://github.com/mvrl/GOMAA-Geo) |
 | NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions | RA-L'24     |                          | [paper](https://arxiv.org/abs/2409.10196)                    |
 | Say-REAPEx: An LLM-Modulo UAV Online Planning Framework for Search and Rescue | CoRL'24     | SAR planning scalability | [paper](https://openreview.net/forum?id=9WdUqvE03f)          |
 | Exploring Spatial Representation to Enhance LLM Reasoning in Aerial Vision-Language Navigation | 2025        |                          | [paper](https://arxiv.org/abs/2410.08500)                    |
 | Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge | 2025        | energy-efficient         | [paper](https://arxiv.org/abs/2501.19259v1)                  |
 | ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions | RA-L'25     |                          | [paper](https://arxiv.org/abs/2409.10283) [github](https://github.com/souravsanyal06/ASMA) |
-| OpenFly : A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation | 25          | Simulator                | [website](https://shailab-ipec.github.io/openfly/)           |
 
 *Only contain paper after 2022
 
